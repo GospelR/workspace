@@ -1,0 +1,81 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1"},
+            "fields": {
+                "title": "English Bulldog",
+                "price": 300000,
+                "image": {"fields": { "file": {
+                "url": "img/English_bulldog.png-removebg-preview.png" } }
+            }
+        }
+    },
+    {
+        "sys":{ "id": "2" },
+        "fields": {
+            "title":"Samoyed Breed",
+            "price":60000,
+            "image": {"fields": { "file": {
+            "url":"img/Samoyed_png-removebg-preview.png" } }
+        }    
+    }
+}, 
+{
+    "sys":{ "id": "3" },
+    "fields": {
+        "title":"Rottweiler",
+        "price":105000,
+        "image": {"fields": { "file": {
+        "url":"img/rottweiler.png-removebg-preview.png" } }
+    }    
+}
+}, 
+{
+    "sys":{ "id": "4" },
+    "fields": {
+        "title":"German Shepherd",
+        "price":85000,
+        "image": {"fields": { "file": {
+        "url":"img/German_shepherd.png-removebg-preview.png" } }
+    }    
+}
+}, {
+    "sys":{ "id": "5" },
+    "fields": {
+        "title":"Lhasa Apso",
+        "price":70000,
+        "image": {"fields": { "file": {
+        "url":"img/Lhasa_apso_png-removebg-preview.png" } }
+    }    
+}
+}, {
+    "sys":{ "id": "6" },
+    "fields": {
+        "title":"Boerboel Breed",
+        "price":300000,
+        "image": {"fields": { "file": {
+        "url":"img/boerboel_breed.png-removebg-preview.png" } }
+    }    
+}
+}, 
+{
+    "sys":{ "id": "7" },
+    "fields": {
+        "title":"English Mastiff",
+        "price":100000,
+        "image": {"fields": { "file": {
+        "url":"img/English_mastiffs.png-removebg-preview.png" } }
+    }    
+}
+},
+{
+    "sys":{ "id": "8" },
+    "fields": {
+        "title":"Chow Chow",
+        "price":200000,
+        "image": {"fields": { "file": {
+        "url":"img/chow-chow.png-removebg-preview.png" } }
+    }    
+}
+}
+    ]}
